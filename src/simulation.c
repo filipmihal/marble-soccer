@@ -1,10 +1,10 @@
 #include <math.h>
 #include <stdio.h>
+#include <stdbool.h>
 
 #include "playground.h"
 #include "ball.h"
 #include "simulation.h"
-#include <stdbool.h>
 
 static void handle_wall_collisions(Ball *balls[], Playground *playground, int num_balls)
 {
