@@ -1,7 +1,8 @@
 # Marble Soccer Simulation
 
-Marble Soccer Simulation is a C-based project, developed during a hackathon.
-The simulation models the movement and interaction of marbles in a 2D space, designed specifically to train reinforcement learning agents to play marble soccer.
+Marble Soccer Simulation is a C-based project developed during a hackathon. The simulation models the movement and interaction of marbles in a 2D space, simulating a competitive game of soccer played by marbles.
+
+It was developed with the intention of being used as a training environment for reinforcement learning agents.
 
 ## Features
 
