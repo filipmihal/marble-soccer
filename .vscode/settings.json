@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "constants.h": "c",
+    "playground.h": "c",
+    "sdl.h": "c",
+    "stdio.h": "c",
+    "stdbool.h": "c",
+    "render.h": "c",
+    "locale": "c"
+  }
+}
